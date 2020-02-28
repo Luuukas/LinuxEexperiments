@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "stdlib.h": "c",
+        "iosfwd": "cpp",
+        "algorithm": "c"
+    }
+}

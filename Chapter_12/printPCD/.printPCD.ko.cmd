@@ -1,0 +1,1 @@
+cmd_/home/luuukas/Desktop/OSlearning/Chapter_12/printPCD/printPCD.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/luuukas/Desktop/OSlearning/Chapter_12/printPCD/printPCD.ko /home/luuukas/Desktop/OSlearning/Chapter_12/printPCD/printPCD.o /home/luuukas/Desktop/OSlearning/Chapter_12/printPCD/printPCD.mod.o ;  true
